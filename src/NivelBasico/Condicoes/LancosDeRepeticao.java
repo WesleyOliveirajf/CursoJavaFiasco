@@ -1,4 +1,4 @@
-package Condicoes;
+package NivelBasico.Condicoes;
 
 public class LancosDeRepeticao {
     public static void main(String[] args) {

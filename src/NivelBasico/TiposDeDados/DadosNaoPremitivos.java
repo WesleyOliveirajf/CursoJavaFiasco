@@ -1,6 +1,4 @@
-package TiposDeDados;
-
-import java.util.Locale;
+package NivelBasico.TiposDeDados;
 
 public class DadosNaoPremitivos {
     public static void main(String[] args) {
