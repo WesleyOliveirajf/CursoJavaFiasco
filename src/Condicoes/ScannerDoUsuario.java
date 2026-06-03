@@ -1,6 +1,5 @@
-package Cindicoes;
+package Condicoes;
 
-import java.lang.classfile.attribute.SourceDebugExtensionAttribute;
 import java.util.Scanner;
 
 public class ScannerDoUsuario {

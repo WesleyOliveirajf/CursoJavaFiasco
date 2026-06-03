@@ -1,4 +1,4 @@
-package Cindicoes;
+package Condicoes;
 
 public class IfeEElse {
     public static void main(String[] args) {

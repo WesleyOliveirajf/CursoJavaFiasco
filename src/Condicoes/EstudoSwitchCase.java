@@ -1,4 +1,4 @@
-package Cindicoes;
+package Condicoes;
 
 import java.util.Scanner;
 
