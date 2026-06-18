@@ -8,10 +8,10 @@ public class main {
         Hokages Tobirama = new Hokages("Tobirama Senju");
         System.out.println(Tobirama.nome);
 
-        Hokages Hiruzen = new Hokages(40);
+        Hokages Hiruzen = new Hokages();
         System.out.println(Hiruzen.idade);
 
-        Hokages Minato = new Hokages(32,"Minato Namizake",false);
+        Hokages Minato = new Hokages();
         System.out.println(Minato.idade);
 
     }
