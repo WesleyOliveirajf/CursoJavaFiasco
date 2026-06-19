@@ -1,19 +1,14 @@
 package NivelIntermediario.Abstrato;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
+        Senju Hashirama = new Senju();
+        Hashirama.nome = "Hashirama Senju";
+        Hashirama.idade = 45;
+        Senju hashirama = Hashirama;
+        hashirama.sabedoriaHokage();
 
-        Uzumaki naruto = new Uzumaki();
-        naruto.nome = "Naruto Uzumaki";
-        naruto.habilidadeEspecial();
 
-        Uchiha sasuke = new Uchiha();
-        sasuke.nome = "Sasuke Uchiha";
-        sasuke.habilidadeEspecial();
-
-        Senju hashirama = new Senju();
-        hashirama.nome = "Hashirama Senju";
-        hashirama.habilidadeEspecial();
 
     }
 

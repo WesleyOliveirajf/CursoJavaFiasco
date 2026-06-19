@@ -1,9 +1,9 @@
 package NivelIntermediario.Abstrato;
 
-public class Senju extends Ninja {
+public class Senju extends Hokages {
 
     @Override
-    public void habilidadeEspecial() {
-        System.out.println("Meu nome é: " + nome + " e esse e meu ataque Senju, Mokuton!");
+    public void sabedoriaHokage() {
+        System.out.println("Voce ganhou sabedoria Hokage");
     }
 }
