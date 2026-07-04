@@ -1,4 +1,4 @@
-package NivelIntermediario.Overload_construtores;
+package NivelIntermediario.finalclass;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,6 +13,9 @@ public class Main {
         naruto.tacaKunai();
         System.out.println("-------------");
         System.out.println(naruto.altura);
+
+        Anbu ninjaAnbu = new Anbu();
+        ninjaAnbu.nome = "Novo NInja";
 
 
         // Obj uchiha
@@ -31,7 +34,7 @@ public class Main {
 
         // Obj Uchiha 3
 
-        Uchiha madara = new Uchiha ("Madara Uhiha", "Aldeia das Flores", 45, 900,NivelNinja.KAGE);
+        Uchiha madara = new Uchiha("Madara Uhiha", "Aldeia das Flores", 45, 900, NivelNinja.KAGE);
         madara.habilidadeEspecial();
         madara.estrategiaDeBatalhaNinja();
         madara.inteligenciaDeCombate(180);

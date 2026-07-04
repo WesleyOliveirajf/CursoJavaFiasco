@@ -1,4 +1,4 @@
-package NivelIntermediario.Overload_construtores;
+package NivelIntermediario.finalclass;
 
 public class Uzumaki extends Ninja {
 
